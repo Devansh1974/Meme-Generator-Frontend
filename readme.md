@@ -3,7 +3,9 @@
 ## Project Description
 The Meme Generator is a simple, user-friendly web application that allows users to upload an image, add custom text on top and bottom, and generate a meme. Users can then download the generated meme to save and share. The app features a clean, minimalistic design and is fully responsive for both desktop and mobile users.
 
-![alt text](<Screenshot 2025-02-09 at 16.52.59.png>)
+![alt text](<Screenshot 2025-02-09 at 16.53.07.png>)
+
+---
 
 ## Features
 - **Image Upload**: Users can upload any image file.
@@ -12,6 +14,10 @@ The Meme Generator is a simple, user-friendly web application that allows users 
 - **Download Option**: Download the final meme as a PNG file.
 - **Responsive Design**: The app adjusts to various screen sizes for an optimal experience across devices.
 - **Doodle Background**: Fun doodle-themed background for a playful look.
+
+
+---
+
 
 ## Technologies Used
 - **HTML5**: Structure of the app.
