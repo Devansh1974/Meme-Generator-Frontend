@@ -3,6 +3,8 @@
 ## Project Description
 The Meme Generator is a simple, user-friendly web application that allows users to upload an image, add custom text on top and bottom, and generate a meme. Users can then download the generated meme to save and share. The app features a clean, minimalistic design and is fully responsive for both desktop and mobile users.
 
+![alt text](image.png)
+
 ## Features
 - **Image Upload**: Users can upload any image file.
 - **Text Customization**: Add custom top and bottom text.
@@ -18,3 +20,14 @@ The Meme Generator is a simple, user-friendly web application that allows users 
 
 ## Deployed here - check-it-out
 https://meme-generator-frontend.netlify.app/
+
+
+
+---
+
+### **What You Can Do**:
+
+- **[Replace the GitHub URL](https://github.com/Devansh1974/Meme-Generator-Frontend)** 
+- **Feel free to adjust the contributing and license sections** if necessary.
+
+This README covers the essential aspects of your project! Let me know if you'd like to add anything else. 😃
