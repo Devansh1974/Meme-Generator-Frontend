@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Meme Generator</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <div class="meme-generator">
+        <h1>Meme Generator</h1>
+        
+        <label for="imageFileInput">Select an Image</label>
+        <input type="file" id="imageFileInput" accept="image/*">
+
+        <label for="topTextInput">Top Text</label>
+        <input type="text" id="topTextInput" placeholder="Enter top text">
+
+        <label for="bottomTextInput">Bottom Text</label>
+        <input type="text" id="bottomTextInput" placeholder="Enter bottom text">
+
+        <canvas id="meme"></canvas>
+        <button id="downloadMeme">Download Meme</button>
+
+    </div>
+
+    <footer>
+        Made with ❤️ by Devansh
+    </footer>
+
+    <script src="script.js"></script>
+</body>
+</html>
